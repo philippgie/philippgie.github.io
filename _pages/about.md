@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,4 +18,4 @@ profile:
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Currently completing master's degree in CS/security and looking forward to explore PhD opportunities.
+PhD student in the <a href="https://sectrs.ethz.ch/">Secure & Trustworthy Systems Group</a> at ETH Zürich.
