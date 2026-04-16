@@ -55,3 +55,30 @@ a:hover {
 .icons a:hover {
     color: #1565c0;
 }
+
+h2 {
+    font-size: large;
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.publications {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    font-size: medium;
+    line-height: 1.5em;
+}
+
+.publications li {
+    margin-bottom: 0.75em;
+}
+
+.pub-title {
+    font-weight: 600;
+}
+
+.pub-venue {
+    color: #555;
+}
