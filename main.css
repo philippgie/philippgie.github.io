@@ -85,3 +85,18 @@ h2 {
 .pub-venue {
     color: #555;
 }
+
+.pub-links {
+    display: inline-block;
+    margin-top: 0.3em;
+}
+
+.pub-links a {
+    color: #555;
+    margin: 0 0.3em;
+    font-size: large;
+}
+
+.pub-links a:hover {
+    color: #1565c0;
+}
